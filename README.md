@@ -1,2 +1,2 @@
 # test-calculadora
-Test de calculadora con nose js,
+Test de calculadora con node js,
